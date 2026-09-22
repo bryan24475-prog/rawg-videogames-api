@@ -129,7 +129,7 @@ async function obtenerEditores() {
 }
 
 // -------------------------------------------------------------
-// METODOS INTEGRANTE 4: TIENDAS Y ETIQUETAS
+// Trabajo realizado por Leo: Tiendas y etiquetas,
 // -------------------------------------------------------------
 // Método 9: Tiendas
 async function obtenerTiendas() {
