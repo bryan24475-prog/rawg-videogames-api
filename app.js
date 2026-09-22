@@ -93,7 +93,7 @@ async function obtenerCreadores() {
 }
 
 // -------------------------------------------------------------
-// Trabajo realizado por Yamil: Géneros, plataformas y editores
+// Trabajo realizado por Yamil: Géneros, plataformas y editores,
 // -------------------------------------------------------------
 // Método 6: Géneros
 async function obtenerGeneros() {
