@@ -57,7 +57,7 @@ function mostrarJuegosEnPantalla(juegos) {
 }
 
 // -------------------------------------------------------------
-//// Trabajo realizado por Erick: Detalles, capturas y creadores
+//// Trabajo realizado por Erick: Detalles, capturas y creadores,
 // -------------------------------------------------------------
 // Método 3: Detalle de un juego por ID
 async function obtenerDetalleJuego(id) {
