@@ -129,7 +129,7 @@ async function obtenerEditores() {
 }
 
 // -------------------------------------------------------------
-// Trabajo realizado por Leo: Tiendas y etiquetas
+// Trabajo realizado por Leo: Tiendas y etiquetas,
 // -------------------------------------------------------------
 // Método 9: Tiendas
 async function obtenerTiendas() {
