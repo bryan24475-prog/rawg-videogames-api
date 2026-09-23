@@ -14,7 +14,7 @@ function mostrarNotificacion(titulo, texto, icono = 'info') {
 }
 
 // -------------------------------------------------------------
-// Trabajo realizado por Bryan: JUEGOS Y BUSQUEDA
+// Trabajo realizado por Bryan: JUEGOS Y BUSQUEDA,
 // -------------------------------------------------------------
 // Método 1: Lista de videojuegos principales
 async function obtenerJuegos() {
